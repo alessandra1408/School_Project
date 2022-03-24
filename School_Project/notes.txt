@@ -1,3 +1,7 @@
+Data inicio estudos sobre banco de dados + vscode: 16/03
+
+data inicio projeto: 21/03
+
 Desafios encontrados:
     1 - Aprender conceitos básicos sql
     2 - Importar o csv

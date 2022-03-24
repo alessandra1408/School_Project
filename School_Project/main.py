@@ -5,9 +5,12 @@ from db import Connection
 connection = Connection.Connector()
 schoolDB = SchoolDB(connection)
 
-#['school_name,principal,email,phone,address1,tstreet']
+projectFolder = '/home/alessandra-goncalves/Documents/Python/School_Project/'
+inputTable = projectFolder + 'Old_Data_School.csv'
+outputTable =  projectFolder + 'Data_School.csv'
+tableDB = 'data_school'
 
 
-schoolDB.filter()
-schoolDB.copy()
-schoolDB.find()
+schoolDB.filter(inputTable,'-', '', outputTable)
+schoolDB.copy(tableDB, outputTable)
+schoolDB.find(tableDB)
