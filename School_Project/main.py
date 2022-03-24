@@ -10,8 +10,4 @@ schoolDB = SchoolDB(connection)
 
 schoolDB.filter()
 schoolDB.copy()
-result = schoolDB.find()
-
-
-for school in result:
-    print(school[0], ": ", school[1])
+schoolDB.find()

@@ -10,12 +10,11 @@ class SchoolDB:
         self.connection = connection
 
     def find(self):
-        
         cursor = self.connection.cursor()
-        cursor.execute("SELECT * FROM school;")
+        cursor.execute("SELECT * FROM data_school;")
         result = cursor.fetchall()
         cursor.close()
-        
+        print(result)
         return result
 
     def delete(self, id):
