@@ -1,0 +1,4 @@
+Desafios encontrados:
+    1 - Aprender conceitos básicos sql
+    2 - Importar o csv
+    3 - remover carcater especial do csv
