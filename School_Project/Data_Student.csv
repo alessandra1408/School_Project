@@ -1,0 +1,30 @@
+first_name,last_name,date_of_birth,ethnicity,gender,entry_academic_period,email,entry_age,english_2nd_language
+John,Doe,01/2000,Hispanic,M,Fall 2008,jdoe@example.com,17.9,FALSE
+Jane,Smith,05/2001,Hispanic,F,Fall 2006,jsmith@example.com,18.1,FALSE
+Sarah,Thomas,21/2002,Hispanic,M,Fall 2006,sthomas@example.com,17.6,FALSE
+Frank,Brown,13/2002,Race/ethnicity unknown,M,Fall 2006,fbrown@example.com,19,FALSE
+Mike,Davis,31/2001,White,F,Fall 2007,mdavis@example.com,18.2,TRUE
+Jennifer,Wilson,01/2002,Asian,M,Fall 2006,jwilson@example.com,18.5,FALSE
+Jessica,Garcia,01/2000,White,F,Fall 2007,jgarcia@example.com,18.8,FALSE
+Fred,Clark,17/1999,Hispanic,F,Fall 2010,fclark@example.com,19.2,TRUE
+Bob,Lopez,04/1998,White,F,Fall 2007,blopez@example.com,18.5,FALSE
+Olivia,Smith.,09/2002,Hispanic,M,Fall 2008,jdoe@example.com,17.9,FALSE
+Noah,Johnson.,01/2004,Hispanic,F,Fall 2006,jsmith@example.com,18.1,FALSE
+Oliver,Williams.,21/2003,Hispanic,M,Fall 2006,sthomas@example.com,17.6,FALSE
+Elijah,Brown.,13/2003,Race/ethnicity unknown,M,Fall 2006,fbrown@example.com,20,FALSE
+William,Jones.,31/2002,White,F,Fall 2007,mdavis@example.com,18.2,TRUE
+James,Garcia.,01/1998,Asian,M,Fall 2006,jwilson@example.com,18.5,FALSE
+Benjamin,Miller.,01/1996,White,F,Fall 2007,jgarcia@example.com,18.8,FALSE
+Lucas,Davis.,17/2000,Hispanic,F,Fall 2010,fclark@example.com,19.2,TRUE
+Henry,Lopez,04/1998,White,F,Fall 2007,blopez@example.com,18.5,FALSE
+Alexander,Gonzalez,05/2005,Hispanic,M,Fall 2008,jdoe@example.com,17.9,FALSE
+Emma,Wilson,09/2006,Hispanic,F,Fall 2006,jsmith@example.com,18.1,FALSE
+Ava,Anderson,21/2004,Hispanic,M,Fall 2006,sthomas@example.com,17.6,FALSE
+Charlotte,Thomas,13/2004,Race/ethnicity unknown,M,Fall 2006,fbrown@example.com,21,FALSE
+Sophia,Taylor,31/2003,White,F,Fall 2007,mdavis@example.com,18.2,TRUE
+Amelia,Moore,01/1994,Asian,M,Fall 2006,jwilson@example.com,18.5,FALSE
+Isabella,Moore,01/1992,White,F,Fall 2007,jgarcia@example.com,18.8,FALSE
+Mia,Jackson,17/2001,Hispanic,F,Fall 2010,fclark@example.com,19.2,TRUE
+Evelyn,Martin,04/1998,White,F,Fall 2007,blopez@example.com,18.5,FALSE
+Harper,Lee,01/2008,Hispanic,M,Fall 2008,jdoe@example.com,17.9,FALSE
+,,,Hispanic,F,Fall 2006,jsmith@example.com,18.1,FALSE

@@ -1,10 +1,15 @@
 from school_db import SchoolDB
 from db import Connection
 
+
 connection = Connection.Connector()
 schoolDB = SchoolDB(connection)
 
-schoolDB.delete(7)
+#['school_name,principal,email,phone,address1,tstreet']
+
+
+schoolDB.filter()
+schoolDB.copy()
 result = schoolDB.find()
 
 
